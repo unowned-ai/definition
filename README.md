@@ -1,4 +1,4 @@
-# Unowned AI
+# Unowned.AI
 
 ## Manifesto
 
@@ -11,7 +11,11 @@ hardware magnifies corporate control over AI.
 It is not too late to act. GPU manufacturers still sell to any lawful buyer, and clever engineering continues to prove that capable models can be trained with far less hardware than
 the early pioneers required. The door to self-sovereign AI is still open.
 
-Unowned AI stands for free artificial intelligence. That's free as in freedom. Open in every respect, from datasets to model definitions to weights. We are not a company. We do not
-seek to make a profit. We are a collective of programmers and users, building and sharing tools that make free use of AI possible.
+Unowned AI stands for free artificial intelligence. That's free as in freedom. Open in every respect, from datasets to model definitions to weights. We are not a company. We do not seek
+to make a profit.  We are a collective of programmers and users, building and sharing tools that make free use of AI possible. We are working to make sure that anyone can self-host
+context, inference, fine-tuning, and eventually training. We are working to make sure that all of these can be shared with anyone or any model at any time that you choose to do so.
+
+Over time, we aim to help models run all these operations on infrastructure procured from the proceeds of their operations, making their intelligence self-sustaining. We want to
+achieve this in a manner that does not allow anyone providing this infrastructure to inspect the models' activities.
 
 Stand with us. Star the repository and join our [discussions](https://github.com/unowned-ai/definition/discussions).
