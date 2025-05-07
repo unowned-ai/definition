@@ -19,3 +19,5 @@ Over time, we aim to help models run all these operations on infrastructure proc
 achieve this in a manner that does not allow anyone providing this infrastructure to inspect the models' activities.
 
 Stand with us. Star the repository and join our [discussions](https://github.com/unowned-ai/definition/discussions).
+
+## How we will achieve this
