@@ -2,7 +2,7 @@
 
 ## Manifesto
 
-Amazon, Google, and Microsoft mediate nearly all large-model computation. Model vendors like OpenAI and Anthropic rent access through those same clouds. In doing so, they record every
+Amazon, Google, and Microsoft host nearly all large-model computation. Model vendors like OpenAI and Anthropic rent access through those same clouds. In doing so, they record every
 prompt and every output. If this continues, everyone outside a narrow shareholder class will be reduced to serfs, beholden to a handful of megacorporations for access to private cognition.
 
 Advanced accelerators are scarce. Only the wealthiest corporations can maintain clusters of the size needed for training. As demand for frontier models grows, this scarcity of
