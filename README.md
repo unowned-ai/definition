@@ -21,3 +21,20 @@ achieve this in a manner that does not allow anyone providing this infrastructur
 Stand with us. Star the repository and join our [discussions](https://github.com/unowned-ai/definition/discussions).
 
 ## How we will achieve this
+
+We will need to build a few things to achieve our vision:
+
+1. [`mnemonic`](https://github.com/unowned-ai/mnemonic): Free and self-hostable context storage. Something similar to ChatGPT memories, but better. *Every* interaction that a user
+has with *any* AI model could be stored in the database and context can be dynamically created from storage.
+
+2. Custom clients that can be used to interact with AI model providers for various use cases. We should make use of [Open Router](https://openrouter.ai/) as much as possible here, and
+we should guarantee support for inference with [Ollama](https://ollama.com/).
+
+3. Crawlers for various types of data (social media, code, blog posts, etc.) that anyone can host to create their own datasets for fine tuning, training, or evaluating models. We can make
+use of the excellent work already done by people like the [eliza](https://github.com/elizaOS/eliza) community.
+
+4. Tools which make it easy for people to fine-tune open models (available on [Hugging Face](https://huggingface.co/) and contributed by groups like [Mistral](https://mistral.ai/)) on
+their own personal datasets.
+
+5. Eventually, tools which allow people to conduct from-scratch training of such models on their own infrastructure or on decentralized and distributed clusters, as teams like
+[Prime Intellect](https://www.primeintellect.ai/) are making possible.
